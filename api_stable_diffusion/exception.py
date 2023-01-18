@@ -1,0 +1,2 @@
+class NotIdException(Exception):
+    pass
